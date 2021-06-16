@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.3)
+  - CollapsibleTableSectionViewController (2.0.1)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - CollapsibleTableSectionViewController (~> 2.0.1)
+  - Moya
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CollapsibleTableSectionViewController
+    - Moya
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  CollapsibleTableSectionViewController: 40d97d684d870044522a0dc29b128a6acaaa99df
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: ca50fc4daa2e9a44f4020c1e559358c86e210707
+
+COCOAPODS: 1.8.4
