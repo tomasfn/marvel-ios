@@ -5,7 +5,6 @@ Using Marvel API:
 
 https://developer.marvel.com/docs
 
-* Character Detail VC fetch data on scrolling to bottom
 
 Stack
 
