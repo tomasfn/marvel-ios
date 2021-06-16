@@ -1,9 +1,15 @@
 # Marvel-iOS
 
 
+Using Marvel API:
+
+https://developer.marvel.com/docs
+
+* Character Detail VC fetch data on scrolling to bottom
+
 Stack
 
-* Swift 5
+ Swift 5
 * iOS 12.1+
 * Xcode 12.4
 * Cocoapods 1.8.4
